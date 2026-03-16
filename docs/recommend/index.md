@@ -5,100 +5,99 @@
 
 ## 🎯 项目 
 
-### [logto](https://github.com/logto-io/logto)
+### [mkcert](https://github.com/FiloSottile/mkcert)
 
-`Logto` 帮助你在数分钟内构建登录体验与用户身份体系。
+`mkcert` 是一个用于生成本地自签名 `SSL` 证书的开源工具，项目基于 `Golang` 开发，可跨平台使用，不需要配置，支持多域名以及自动信任 CA：
 
-核心功能：
+![mkcert](https://images-1252557999.file.myqcloud.com/uPic/mkcert.png) 
 
-- 一个基于 `OIDC` 的身份服务
-- 多平台用户登录/注册体验，支持深色模式并提供相关 SDK（Web，iOS 和 Android）
-- 动态短信/邮件验证码登录/注册
-- 开箱即用的社交登录集成（GitHub，Google，微信，支付宝等）
-- 基于 web 的图形化管理控制台
-- 可扩展的多语言支持
+### [daedalOS](https://github.com/DustinBrett/daedalOS)
 
-![logto](https://images-1252557999.file.myqcloud.com/uPic/logto.jpg) 
+`daedalOS`是一款开源的桌面环境系统，可直接在浏览器运行，官网点[dustinbrett.com](https://dustinbrett.com/)，主要拥有开始菜单、任务栏、动态壁纸、文件系统、编辑器、模拟器、浏览器、开发工具等功能。
 
-### [quivr](https://github.com/stangirard/quivr)
+![daedalOS](https://images-1252557999.file.myqcloud.com/uPic/ISxBdY.png) 
 
-`Quivr` 是您在云中的第二个大脑，让您轻松存储和检索非结构化信息，通过索引你电脑上各种类型的文件，然后通过 `LLM` 处理，最后进行问答：
+### [docker-android](https://github.com/budtmo/docker-android)
 
-![quivr_qa](https://images-1252557999.file.myqcloud.com/uPic/quivr_qa.jpg) 
+`Android` 的 `Docker` 解决方案，支持 `noVNC` 和视频录制，项目提供了多个版本的 Android 镜像，包括最新版本和特定版本号的镜像，如 Android 9.0、10.0到14.0 等，以及对应的 Genymotion 镜像：
 
-### [markdown-nice](https://github.com/mdnice/markdown-nice)
+![docker-android](https://images-1252557999.file.myqcloud.com/uPic/docker-android.png)
 
-有很多朋友问我的公众号排版是怎么做的，答案就是`markdown-nice`开源项目：
+其他类似好玩的项目：
 
-> 支持主题设计的 Markdown 编辑器，让排版变 Nice
-
-你可以选择直接访问[官方](https://editor.mdnice.com/)，也可以自建，自建的好处是不需要登录，下面截图就是我自建的：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png)
-
-官方并不支持`Docker`部署，为了方便大家使用，直接用我打包上传的镜像，一行命令即可体验`mdnice`:
-
-```shell
-docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11
-``` 
+- [docker-wechat](https://github.com/huan/docker-wechat)
+- [dockur/windows](https://github.com/dockur/windows)
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX) 
 
 ## 🤖 软件 
 
-### [pgadmin4](https://github.com/pgadmin-org/pgadmin4)
+### [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile)
 
-跨平台的 `PostgreSQL` 数据库管理软件（开源）：
+一个 `Bilibili` 第三方音频播放器：
 
-![pgAdmin4](https://images-1252557999.file.myqcloud.com/uPic/pgAdmin4.jpg) 
+![azusa-player-mobile](https://images-1252557999.file.myqcloud.com/uPic/azusa-player-mobile.jpg) 
 
-### [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)
+### [gushi_namer](https://github.com/holynova/gushi_namer)
 
-免费开源，基于 `Requests` 模块实现：`TikTok` 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具：
+古诗文起名: 利用诗经、楚辞等给小朋友起名字。推荐给即将当父母的朋友，我当时给我家宝宝取名字真是绞尽脑汁，一看到这项目就必须支持了哈哈。
 
-![TikTokDownloader](https://images-1252557999.file.myqcloud.com/uPic/TikTokDownloader.png) 
+![Z8BAP0](https://images-1252557999.file.myqcloud.com/uPic/Z8BAP0.png)
 
-### [avnc](https://github.com/gujjwal00/avnc)
+从结果看，名字的生成方式可以考虑引入机器学习，可能效果会更好 
 
-针对 `Android` 的开源 `VNC` 客户端：
+### [PicHoro](https://github.com/Kuingsmile/PicHoro "PicHoro")
 
-![avnc](https://images-1252557999.file.myqcloud.com/uPic/avnc.jpg) 
+多功能云存储管理工具，集图床管理、文件传输于一体。支持多平台且功能全面：
+
+- 直接管理多种云存储平台
+- 便捷上传和下载文件
+- 兼容 S3 API，轻松集成现有系统
+
+![PicHoro](https://images-1252557999.file.myqcloud.com/uPic/PicHoro.jpg) 
 
 ## 👀 资料 
 
-### [zh-style-guide](https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html)
+### [True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu)
 
-本指南规范了一种中文写作风格，主要用于技术文档的编写。素材来源于互联网，为各家中文文案风格指南的综合，旨在对中文技术文档的语言风格、结构样式、内容元素、标点符号、格式排版等方面给出参考规范。
+🔥诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
 
-![zh_style_guide](https://images-1252557999.file.myqcloud.com/uPic/zh_style_guide.jpg) 
+![True-Story-of-Pangu](https://images-1252557999.file.myqcloud.com/uPic/0aCPFn.png) 
 
-### [python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial)
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-一份用 `Python` 编写 `systemd` 服务的教程。 
+一份 `Next.js` 中文教程：
 
-### RustBook
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
-一本 Rust 书籍，有简体和繁体版，内容包括算法分析，基本数据结构和算法，外加一些实战。
+### [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
-![RustBook](https://images-1252557999.file.myqcloud.com/uPic/RustBook.jpg) 
+本教程作者结合了自身实践、Kent C. Dodds 文章、StackOverflow、Github Issue 以及别的博客最终总结出来的一套实践指南，小书包含 3 部分：
+
+基础实践：从 0 到 1 写项目和测试，每一章会通过一个业务例子来分享测试难点、解法和思路。
+配套项目 (opens new window)：如果你在某一步卡壳了，也可以参考这个项目。
+测试思路：分享一些 Kent 的文章（中文翻译）以及测试总结。
+
+![jest-tutorial](https://images-1252557999.file.myqcloud.com/uPic/jest-tutorial.jpg) 
 
 ## 🕸 网站 
 
-### [star-history](https://star-history.com/)
+### [短剧搜索引擎](https://www.fre123.com/sp?ref=weekly)
 
-在线查看 `GitHub` 项目的 `Star` 增长趋势的网站，并生成趋势图，可以嵌入到你的开源项目：
+比较全面的短剧搜索引擎，数据在夸克网盘，转存即可免费观看全部：
 
-![star-history](https://images-1252557999.file.myqcloud.com/uPic/star-history.jpg) 
+![sp](https://images-1252557999.file.myqcloud.com/uPic/sp.jpg) 
 
-### [cleverpdf](https://www.cleverpdf.com/cn)
+### [jsont.run](https://www.jsont.run/)
 
-几十个强大的PDF在线工具，无需注册会员，永久免费：
+一个简洁的在线 `JSON` 解析器：
 
-![cleverpdf](https://images-1252557999.file.myqcloud.com/uPic/6HL7Iu.jpg) 
+![jsont](https://images-1252557999.file.myqcloud.com/uPic/jsont.jpg) 
 
-### [AI Reading Hub](https://www.aireadinghub.com/ "AI Reading Hub")
+### [红白机游戏盒](https://nes.heheda.top/ "红白机游戏盒")
 
-每天精选值得读的 AI 文章：
+在线畅玩经典小游戏：
 
-![AI Reading Hub](https://images-1252557999.file.myqcloud.com/uPic/YBUidO.png) 
+![heheda](https://images-1252557999.file.myqcloud.com/uPic/heheda.jpg) 
 
 ## ✍️ 说明
 
