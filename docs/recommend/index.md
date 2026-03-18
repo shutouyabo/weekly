@@ -5,103 +5,93 @@
 
 ## 🎯 项目 
 
-### [termtyper](https://github.com/kraanzu/termtyper)
+### [wails](https://wails.io/)
 
-一个终端打字应用程序，以提高你的手指水平！
+最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
 
-![termtyper](https://images-1252557999.file.myqcloud.com/uPic/termtyper.jpg) 
+![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
 
-### [claude-flow](https://github.com/ruvnet/claude-flow)
+### [zyronon/douyin](https://github.com/zyronon/douyin)
 
-`Claude-Flow v2.0.0 Alpha` 代表了人工智能驱动开发编排的革命性飞跃。它从零开始构建，具有企业级架构、先进的群体智能和无缝的 Claude Code 集成。
+这是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 `Vue、Vite` 实现，使用了最新的 `Vue` 全家桶技术栈：
 
-- 🐝 蜂巢思维智能：女王主导的人工智能与专门的工蜂进行协调
-- 🧠 神经网络：27+ 种具有 WASM SIMD 加速的认知模型
-- 🔧 87 个 MCP 工具：用于集群编排、内存和自动化的综合工具包
-- 🔄 动态代理架构（DAA）：具有容错能力的自组织代理
-- 💾 SQLite 内存系统：持久化存储.swarm/memory.db，包含 12 个专门的表
-- 🪝 高级钩子系统：带有操作前/后钩子的自动化工作流程
-- 📊 GitHub 集成：6 种专门的存储库管理模式
-- ⚡ 性能：SWE-Bench 解决率 84.8%，速度提升 2.8-4.4 倍 
+![zyronon_dy](https://images-1252557999.file.myqcloud.com/uPic/zyronon_dy.jpg) 
 
-### [LapisCV](https://github.com/BingyanStudio/LapisCV "LapisCV")
+### [reflex](https://github.com/reflex-dev/reflex)
 
-📃 开箱即用的 `Obsidian / Typora` 简历，基于 `Markdown` 格式，易于编辑，所见即所得。风格简洁正式，支持多页，适用于大部分求职 / 求学场景：
+`Reflex` 是一个使用纯Python构建全栈web应用的库，使用 `Python` 创建高效且可自定义的网页应用程序，几秒钟内即可部署：
 
-![LapisCV](https://images-1252557999.file.myqcloud.com/uPic/LapisCV.png) 
+- 纯Python - 前端、后端开发全都使用 `Python`，不需要学习 `Javascript`。
+- 完整的灵活性 - `Reflex` 很容易上手, 并且也可以扩展到复杂的应用程序。
+- 立即部署 - 构建后，使用单个命令就能部署应用程序；或者也可以将其托管在您自己的服务器上。 
 
 ## 🤖 软件 
 
-### [Alock](https://github.com/luoxuhai/Alock)
+### [LANDrop](https://github.com/LANDrop/LANDrop)
 
-Alock 是一款免费用于隐藏指定 App 的应用。使用 Alock 可以彻底地从 iPhone/iPad 上隐藏指定的 App，隐藏后的 App 在主屏幕、App资料库、搜索、系统设置中均不可见。最大程度保护您的隐私：
+开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
 
-![Alock](https://images-1252557999.file.myqcloud.com/uPic/Alock.jpg) 
+![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
 
-### [linkandroid](https://github.com/modstart-lib/linkandroid)
+### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
 
-全能手机连接助手，方便快捷的连接 Android 和电脑，连接手机后可投屏、GIF/MP4录屏、截屏、文件管理、手机操作等功能：
+免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
 
-![linkandroid](https://images-1252557999.file.myqcloud.com/uPic/R9oZa7.png) 
+![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
 
-### [Tran](https://github.com/Borber/Tran)
+### [zen](https://github.com/anfragment/zen)
 
-简洁, 快速, 划词翻译：
+简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
 
-- 开箱即用
-- 永久免费使用
-- 谷歌翻译镜像
-
-![Tran](https://images-1252557999.file.myqcloud.com/uPic/Tran.jpg)
-
-其他开源划词翻译软件推荐：
-
-- [pot-desktop](https://github.com/pot-app/pot-desktop)：🌈一个跨平台的划词翻译和OCR软件
-- [Easydict](https://github.com/tisfeng/Easydict)：一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。
-- [TTime](https://github.com/inkTimeRecord/TTime)：🚀 一款简洁高效的输入、截图、划词翻译软件 
+![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
 
 ## 👀 资料 
 
-### [Sensitive-lexicon](https://github.com/konsheng/Sensitive-lexicon)
+### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
 
-一个持续更新的中文敏感词库，帮助开发者和内容审核者快速识别并过滤不当文本，国内做需要用户评论相关业务还是很有用。 
+Beej 的 Git 指南教程：
 
-### [LLMBook-zh](https://llmbook-zh.github.io/)
+![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
 
-大语言模型英文综述文章《A Survey of Large Language Models》团队的新书，可以免费下载电子版本，网络不方便通过老胡上传的[网盘地址](https://pan.quark.cn/s/51a168b3d789)下载即可：
+之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
 
-![llmbook](https://images-1252557999.file.myqcloud.com/uPic/llmbook.jpg) 
+![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
 
-### [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
 
-一个精选列表，包含了用于增强 Claude Code 工作流程、生产力和氛围的各种命令、文件和工具：
+首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
 
-![awesome-claude-code](https://images-1252557999.file.myqcloud.com/uPic/HMpvvc.png) 
+但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
+
+总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
+
+![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
+
+### [开源软件指南](https://opensource.guide/zh-hans/)
+
+GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
+
+![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
 
 ## 🕸 网站 
 
-### [latexlive](https://www.latexlive.com/)
+### [uxdatabase](https://www.uxdatabase.io/)
 
-免费的latex公式图片识别网站，没有限制、无广告、免费，有图片公式识别需求的朋友可以使用试试：
+国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
 
-![latexlive](https://images-1252557999.file.myqcloud.com/uPic/Xnip2021-09-24_14-06-11.jpg) 
+![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
 
-### [shell.how](https://www.shell.how/)
+### [scrnshts.club](https://scrnshts.club/)
 
-网站用优雅的交互和排版告诉你Linux命令的作用：
+收集 App 在应用商店中做宣传用的截图，很有意思：
 
-![shell_howe](https://images-1252557999.file.myqcloud.com/uPic/shell_howe.jpg) 
+![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
 
-### [deepseek-r1-online.com](https://deepseek-r1-online.com/chat/)
+### [tldraw](https://www.tldraw.com/)
 
-免费的满血 `deepseek-r1` 在线版，[老胡 DeepSeek 信息交流群](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)友情提供共享，放心使用：
+小巧强大的在线绘图工具：
 
-![deepseek-r1-online.co](https://images-1252557999.file.myqcloud.com/uPic/xrfA9j.png)
-
-老胡也顺便整理了一些教程：
-
-- [简单教程: 两步获取专属满血 DeepSeek-R1](https://mp.weixin.qq.com/s/dPicExymBomcksvijPNNKg)
-- [DeepSeek-R1 联网功能实现方案攻略](https://www.biji.com/note/1867969552567120872/web) 
+![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
 
 ## ✍️ 说明
 
