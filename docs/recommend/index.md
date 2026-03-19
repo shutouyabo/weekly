@@ -5,93 +5,87 @@
 
 ## 🎯 项目 
 
-### [wails](https://wails.io/)
+### [dicebear](https://github.com/dicebear/dicebear)
 
-最近发现不少开源软件是基于 `Go` 语言，顺藤摸瓜发现了 `[wails](https://wails.io/)`，它可以帮你使用 `Go` 构建漂亮的跨平台应用程序：
+供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
 
-![wails](https://images-1252557999.file.myqcloud.com/uPic/wails.jpg) 
+![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
 
-### [zyronon/douyin](https://github.com/zyronon/douyin)
+### [AudioNotes](https://github.com/harry0703/AudioNotes)
 
-这是一个模仿 抖音|TikTok 的移动端短视频项目，它基于 `Vue、Vite` 实现，使用了最新的 `Vue` 全家桶技术栈：
+基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
 
-![zyronon_dy](https://images-1252557999.file.myqcloud.com/uPic/zyronon_dy.jpg) 
+![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
 
-### [reflex](https://github.com/reflex-dev/reflex)
+### [pdf-craft](https://github.com/oomol-lab/pdf-craft)
 
-`Reflex` 是一个使用纯Python构建全栈web应用的库，使用 `Python` 创建高效且可自定义的网页应用程序，几秒钟内即可部署：
+`PDF Craft` 可以将 `PDF` 文件转化为各种其他格式，该项目将专注于扫描书籍的 `PDF` 文件的处理：
 
-- 纯Python - 前端、后端开发全都使用 `Python`，不需要学习 `Javascript`。
-- 完整的灵活性 - `Reflex` 很容易上手, 并且也可以扩展到复杂的应用程序。
-- 立即部署 - 构建后，使用单个命令就能部署应用程序；或者也可以将其托管在您自己的服务器上。 
+![pdf-craft](https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png) 
 
 ## 🤖 软件 
 
-### [LANDrop](https://github.com/LANDrop/LANDrop)
+### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
 
-开源免费的局域网文件传输工具，同时支持`iOS, Android, macOS, Windows, Linux`：
+高度可定制的macOS状态栏替代品：
 
-![landrop](https://images-1252557999.file.myqcloud.com/uPic/landrop.jpg) 
+![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
 
-### [network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)
+### [JPEGView](https://github.com/sylikc/jpegview)
 
-免费开源抓包工具，支持 `Windows、Mac、Android、IOS、Linux` 全平台系统：
+`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
 
-![network_proxy_flutter](https://images-1252557999.file.myqcloud.com/uPic/network_proxy_flutter.png) 
+### [alacritty](https://github.com/alacritty/alacritty)
 
-### [zen](https://github.com/anfragment/zen)
+一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
 
-简单、免费且高效的广告拦截器和隐私保护工具，适用于Windows、macOS和Linux。它通过设置代理来拦截所有应用程序发出的HTTP请求，并阻止那些提供广告、跟踪脚本（监控您行为）、恶意软件和其他不需要的内容的请求。由于在系统级别运行，Zen可以防御浏览器扩展无法处理的威胁，例如嵌入在桌面应用程序和操作系统组件中的跟踪器。
+我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
 
-![zen](https://images-1252557999.file.myqcloud.com/uPic/zen.jpg) 
+![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
 
 ## 👀 资料 
 
-### [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/index.html)
+### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
 
-Beej 的 Git 指南教程：
+打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
 
-![Beejgit](https://images-1252557999.file.myqcloud.com/uPic/UAP5Fj.png)
+![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
 
-之前推荐过[Beej 的 C 语言超级指南](https://beej.us/guide/bgc/html/split/)，从入门到进阶，基础语法到高级特性：
+### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
 
-![Beej](https://images-1252557999.file.myqcloud.com/uPic/1XOLrv.png) 
+一份 `Next.js` 中文教程：
 
-### [self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder)
+![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
 
-首先，这不是一本程序员的技术书籍，整本书不会提及任何一个技术词汇，这也不是一本教你如何规划职业生涯，如何在职场走个更远的书，虽然我相信大部分内容确实有助于在职场的发展。
+### [dockerlabs](https://github.com/collabnix/dockerlabs)
 
-但这本书的真正用意是想解决工作过程中碰到的焦虑、倦怠、迷茫、抑郁等情绪，聚焦于解决具体问题，通过改变认知将我们从负面情绪的泥淖中走出来，做到更坦然，真诚的面对自己的内心，成为一个自洽的程序员。
+Docker 学习教程：
 
-总而言之，这不是一本成功学的书，它不会教你如何赢，笔者本身也不是一个世俗意义上成功的人，而是一本帮你梳理情绪，转变心境的书。
+- 适用于初中高级别学习者的免费平台
+- 超过500个高度互动的Docker教程和指南
+- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
 
-![self-consistent-coder](https://images-1252557999.file.myqcloud.com/uPic/xxZILr.png) 
-
-### [开源软件指南](https://opensource.guide/zh-hans/)
-
-GitHub 官方发布的一套技术文档，自带了有多个语言版本。主要讲解如何启动一个开源项目、项目维护的最佳实践，怎么通过开源工作获得经济报酬等内容。
-
-![opensource_guide](https://images-1252557999.file.myqcloud.com/uPic/gf1eKh.png) 
+![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
 
 ## 🕸 网站 
 
-### [uxdatabase](https://www.uxdatabase.io/)
+### [watermarkremover](https://www.watermarkremover.io/)
 
-国外一个免费开放的产品设计教程，包含了设计基础、产品规划与探索、交互设计、产品原型设计、开发与测试、技能训练等六大模块的相关知识：
+通过AI技术去除图片水印：
 
-![uxdatabase](https://images-1252557999.file.myqcloud.com/uPic/uxdatabase.jpg) 
+![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
 
-### [scrnshts.club](https://scrnshts.club/)
+### [小纸条-gitcafe](https://u.gitcafe.net/)
 
-收集 App 在应用商店中做宣传用的截图，很有意思：
+开放纯粹的资源网站：
 
-![scrnshts](https://images-1252557999.file.myqcloud.com/uPic/scrnshts.jpg) 
+![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
 
-### [tldraw](https://www.tldraw.com/)
+### [macosicongallery](https://www.macosicongallery.com/)
 
-小巧强大的在线绘图工具：
+专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
 
-![tldraw](https://images-1252557999.file.myqcloud.com/uPic/tldraw.png) 
+![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
 
 ## ✍️ 说明
 
