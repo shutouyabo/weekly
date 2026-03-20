@@ -5,87 +5,90 @@
 
 ## 🎯 项目 
 
-### [dicebear](https://github.com/dicebear/dicebear)
+### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
-供设计师和开发者使用的头像库。可根据传入的字符串，自动生成对应用户头像的库：
+基于 `SOTA AI` 模型的图片免费开源修补工具：
 
-![dicebear](https://images-1252557999.file.myqcloud.com/uPic/dicebear.jpg) 
+![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
 
-### [AudioNotes](https://github.com/harry0703/AudioNotes)
+### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
-基于 `FunASR&Qwen2` 构建的音视频转结构化笔记系统，能够快速提取音视频的内容，并且调用大模型进行整理，成为一份结构化的 `markdown` 笔记，方便快速阅读：
+使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
 
-![AudioNotes](https://images-1252557999.file.myqcloud.com/uPic/AudioNotes.jpg) 
+![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
 
-### [pdf-craft](https://github.com/oomol-lab/pdf-craft)
+### [sqliteviz](https://github.com/lana-k/sqliteviz)
 
-`PDF Craft` 可以将 `PDF` 文件转化为各种其他格式，该项目将专注于扫描书籍的 `PDF` 文件的处理：
+`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
 
-![pdf-craft](https://images-1252557999.file.myqcloud.com/uPic/7Gx8lB.png) 
+在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
+
+![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
 
 ## 🤖 软件 
 
-### [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+### [Itsycal](https://www.mowglii.com/itsycal/)
 
-高度可定制的macOS状态栏替代品：
+一款简单优雅的 Macos 菜单栏日历：
 
-![SketchyBar](https://images-1252557999.file.myqcloud.com/uPic/SketchyBar.jpg) 
+![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
 
-### [JPEGView](https://github.com/sylikc/jpegview)
+### [mountmate](https://github.com/homielab/mountmate)
 
-`JPEGView` 是一个精简、快速且高度可配置的图像查看器/编辑器，软件大小不到 5 M并且速度很快，支持目前主流格式。 
+一个简单的 `macOS` 菜单栏应用程序，用于管理您的外部驱动器:
 
-### [alacritty](https://github.com/alacritty/alacritty)
+![mountmate](https://images-1252557999.file.myqcloud.com/uPic/idgycV.png) 
 
-一个快速的、跨平台的 `OpenGL` 终端模拟器，基于 `Rust` 编写，启用 `GPU` 加速。
+### [WeChatAI](https://github.com/bingryan/WeChatAI)
 
-我用这个就图一个特点，那就是**快**，再加上我用的 `zsh` 配置越来越多，每次用 `Item2` 打开终端要 `3s` 左右，我就调研了下新方案，用上了：`alacritty + fish`，终于又回到了终端秒开的世界：
+技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
 
-![Alacritty](https://images-1252557999.file.myqcloud.com/uPic/Alacritty.jpg) 
+![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
 
 ## 👀 资料 
 
-### [护宇的知识管理](https://www.yuque.com/huyuya/zsgl)
+### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
 
-打造一套：获取 → 吸收 → 整理 → 输出 的知识管理闭环：
+这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
 
-![zsgl](https://images-1252557999.file.myqcloud.com/uPic/zsgl.jpg) 
+- 👋 入门
+- 💬 大语言模型
+	- 💡 提示工程
+	- 🔧 大语言模型实践
+	- 🔬 大语言模型理论
+- 🎨 AI绘画
+- 🔊 AI音频
+- 🌈 多模态
+- 🧠 深度学习
+- 💻 AI系统 
 
-### [nextjs-learn-cn](https://qufei1993.github.io/nextjs-learn-cn/)
+### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
 
-一份 `Next.js` 中文教程：
+此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
 
-![nextjs-learn-c](https://images-1252557999.file.myqcloud.com/uPic/nextjs-learn-c.jpg) 
+### [learn-regex](https://github.com/ziishaned/learn-regex)
 
-### [dockerlabs](https://github.com/collabnix/dockerlabs)
-
-Docker 学习教程：
-
-- 适用于初中高级别学习者的免费平台
-- 超过500个高度互动的Docker教程和指南
-- 经过在Docker桌面版上的充分测试，可以在浏览器上运行（无需基础设施）
-
-![dockerlabs](https://images-1252557999.file.myqcloud.com/uPic/dockerlabs.jpeg) 
+开源的正则表达式教程，有中文版，有在线示例。 
 
 ## 🕸 网站 
 
-### [watermarkremover](https://www.watermarkremover.io/)
+### [http.cat](https://http.cat)
 
-通过AI技术去除图片水印：
+如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
 
-![watermarkremover](https://images-1252557999.file.myqcloud.com/uPic/watermarkremover.jpg) 
+![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
 
-### [小纸条-gitcafe](https://u.gitcafe.net/)
+### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
 
-开放纯粹的资源网站：
+来自阿里体系的各种技术资料，全部免费，个人非常推荐。
 
-![gitcafe](https://images-1252557999.file.myqcloud.com/uPic/gitcafe.jpg) 
+![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
 
-### [macosicongallery](https://www.macosicongallery.com/)
+### [uilibhub](https://uilibhub.com/zh)
 
-专门收集 macOS 应用图标的网站(869 个)，支持从颜色、设计师、开发商、年份等角度筛选，图标最高分辨率 512px：
+探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
 
-![macosicongallery](https://images-1252557999.file.myqcloud.com/uPic/macosicongallery.jpg) 
+![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
 
 ## ✍️ 说明
 
