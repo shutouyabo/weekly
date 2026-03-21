@@ -5,90 +5,90 @@
 
 ## 🎯 项目 
 
-### [lama-cleaner](https://github.com/Sanster/lama-cleaner)
+### [iptables-web](https://github.com/pretty66/iptables-web)
 
-基于 `SOTA AI` 模型的图片免费开源修补工具：
+`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
 
-![lama-cleaner](https://images-1252557999.file.myqcloud.com/uPic/lama-cleaner.gif) 
+![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
 
-### [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+### [rybbit](https://github.com/rybbit-io/rybbit)
 
-使用 `Next.js、Type Script & Tailwind CSS` 构建的 `ChatGPT` 交互界面：
+`Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
 
-![chatbot-ui](https://images-1252557999.file.myqcloud.com/uPic/chatbot-ui.png) 
+![rybbit](https://images-1252557999.file.myqcloud.com/uPic/fZwu4p.png) 
 
-### [sqliteviz](https://github.com/lana-k/sqliteviz)
+### [telegram-search](https://github.com/groupultra/telegram-search)
 
-`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
+一个功能强大的 `Telegram` 聊天记录搜索工具，支持向量搜索和语义匹配：
 
-在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
-
-![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
+![telegram-search](https://images-1252557999.file.myqcloud.com/uPic/5Xt7zS.png) 
 
 ## 🤖 软件 
 
-### [Itsycal](https://www.mowglii.com/itsycal/)
+### [P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
 
-一款简单优雅的 Macos 菜单栏日历：
+`P2P Remote Desktop` 是一个开源的远程桌面控制工具，它支持直接点对点连接，不需要任何中转服务器，因此具有较高的连接稳定性和速度：
 
-![itsycal](https://images-1252557999.file.myqcloud.com/uPic/itsycal.png) 
+![P2P Remote Desktop](https://images-1252557999.file.myqcloud.com/uPic/ysw51U.png) 
 
-### [mountmate](https://github.com/homielab/mountmate)
+### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
 
-一个简单的 `macOS` 菜单栏应用程序，用于管理您的外部驱动器:
+沉浸式双语网页翻译扩展：
 
-![mountmate](https://images-1252557999.file.myqcloud.com/uPic/idgycV.png) 
+- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
+- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
+- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
+- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
+- 支持 PDF 文件双语翻译。
+- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
+- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
 
-### [WeChatAI](https://github.com/bingryan/WeChatAI)
+![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
 
-技术交流群的群友 **@bingryan** 开发的，推荐一下，项目目的在于打造一个All in One的个人AI聊天助手：
+### [hummingbird](https://github.com/leibnizli/hummingbird)
 
-![WeChatAI](https://images-1252557999.file.myqcloud.com/uPic/WeChatAI.png) 
+`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
+
+- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
+- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
+
+![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
 
 ## 👀 资料 
 
-### [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials/blob/main/README_zh.md)
+### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
 
-这里收集了关于AIGC的各种精选教程和资源，既适合初学者也适合进阶AI爱好者：
+Go语言实战: 编写可维护Go语言代码建议。 
 
-- 👋 入门
-- 💬 大语言模型
-	- 💡 提示工程
-	- 🔧 大语言模型实践
-	- 🔬 大语言模型理论
-- 🎨 AI绘画
-- 🔊 AI音频
-- 🌈 多模态
-- 🧠 深度学习
-- 💻 AI系统 
+### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
 
-### [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern)
+该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
 
-此库包含了实践生产环境中机器学习系统的训练、服务化和操作的系统设计模式。 
+### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
 
-### [learn-regex](https://github.com/ziishaned/learn-regex)
+该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
 
-开源的正则表达式教程，有中文版，有在线示例。 
+![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
 
 ## 🕸 网站 
 
-### [http.cat](https://http.cat)
+### [apivault.dev](https://apivault.dev/)
 
-如果所有的HTTP状态码对应一只猫，那会是怎样的情况，这个网站做的就是这样一件事，看得还是挺减压的。
+免费开源的公共 `API` 网站：
 
-![http_cat](https://images-1252557999.file.myqcloud.com/uPic/http_cat.jpg) 
+![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
 
-### [阿里藏经阁](https://developer.aliyun.com/ebook?spm=a2c6h.14210656.J_6722153750.1&share_source=wechat)
+### [fancymacbook](https://fancymacbook.app/)
 
-来自阿里体系的各种技术资料，全部免费，个人非常推荐。
+提供技术向软件搜索然后输出 `brew` 命令安装：
 
-![aliyun_dev](https://images-1252557999.file.myqcloud.com/uPic/5s2dAQ.png) 
+![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
 
-### [uilibhub](https://uilibhub.com/zh)
+### [FindPng](https://www.findpng.com/)
 
-探索最佳 `UI` 库，助力 `React & Vue` 高效开发：
+一个免费的由 `AI` 驱动的透明 `PNG` 图像生成器，输入关键词就可以生成透明的图像：
 
-![uilibhub](https://images-1252557999.file.myqcloud.com/uPic/uilibhub.jpg) 
+![findpng](https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg) 
 
 ## ✍️ 说明
 
