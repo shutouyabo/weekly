@@ -5,90 +5,101 @@
 
 ## 🎯 项目 
 
-### [iptables-web](https://github.com/pretty66/iptables-web)
+### [neurapress](https://github.com/tianyaxiang/neurapress)
 
-`iptables-web` 是一个轻量级的针对 `iptables` 的界面管理程序，支持二进制文件直接运行及 `Docker` 快速部署安装；整个程序打包完成后只有一个二进制文件，适合日常运维使用。
+`NeuraPress` 是一个现代化的 `Markdown` 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 `DeepSeek` 和微信公众号助手使用，碎片时间也能用手机发有排版的文章了：
 
-![iptables-web](https://images-1252557999.file.myqcloud.com/uPic/iptables-web.png) 
+- 🎨 实时预览 - 所见即所得的编辑体验
+- 📱 移动端支持 - 支持手机上直接编辑，搭配 DeepSeek和微信公众号助手使用
+- 🎯 微信风格 - 完美适配微信公众号样式
+- 🔧 样式定制 - 灵活的样式配置选项
+- 📋 一键复制 - 支持复制带格式的预览内容
+- 🎭 模板系统 - 内置多种排版模板，一键切换
+- 🚀 快速高效 - 基于 Next.js 构建，性能优异
 
-### [rybbit](https://github.com/rybbit-io/rybbit)
+![NeuraPress](https://images-1252557999.file.myqcloud.com/uPic/xGyAd8.png)
+`markdown-nice` 也是一个不错的项目，使用  `Docker`  一键搭建：`docker run --name mdnice -p 8080:80 -d howie6879/mdnice:22.02.11`
 
-`Rybbit` 是一个开源、隐私友好的网站分析工具，旨在提供比 `Google Analytics` 更直观的用户体验：
+![markdown-nice](https://images-1252557999.file.myqcloud.com/uPic/oGeICY.png) 
 
-![rybbit](https://images-1252557999.file.myqcloud.com/uPic/fZwu4p.png) 
+### [sqliteviz](https://github.com/lana-k/sqliteviz)
 
-### [telegram-search](https://github.com/groupultra/telegram-search)
+`sqliteviz` 是一款功能强大且易于使用的离线数据可视化工具，具有易于使用、性能出色的特点，非常适合数据分析人员、学生和开发人员使用。
 
-一个功能强大的 `Telegram` 聊天记录搜索工具，支持向量搜索和语义匹配：
+在线体验地址：[https://sqliteviz.com/app](https://sqliteviz.com/app)
 
-![telegram-search](https://images-1252557999.file.myqcloud.com/uPic/5Xt7zS.png) 
+![sqliteviz](https://images-1252557999.file.myqcloud.com/uPic/sqliteviz.jpg) 
+
+### [think](https://github.com/fantasticit/think)
+
+云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通：
+
+![think](https://images-1252557999.file.myqcloud.com/uPic/think.jpg) 
 
 ## 🤖 软件 
 
-### [P2P Remote Desktop](https://github.com/miroslavpejic85/p2p)
+### [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
-`P2P Remote Desktop` 是一个开源的远程桌面控制工具，它支持直接点对点连接，不需要任何中转服务器，因此具有较高的连接稳定性和速度：
+适用于 Win10 x64 平台的离线OCR软件。批量导入本地图片 / 读取剪贴板，识别图片中的文本，输出到软件面板或本地 .txt / .md 文件。
 
-![P2P Remote Desktop](https://images-1252557999.file.myqcloud.com/uPic/ysw51U.png) 
+- **免费**：本项目所有代码开源，完全免费。
+- **方便**：解压即用，无需安装。不需要网络。
+- **高效**：OCR识别引擎是C++编译的  [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)  （PP-OCRv2.6 cpu\_avx\_mkl），比前代提速20%。只要电脑性能足够且支持mkldnn，通常能比在线OCR服务更快。
+- **精准**：默认使用PPOCR-v3模型库。除了能准确辨认常规文字，对非常规字形（手写、艺术字、小字、方向不正、杂乱背景等）也有不错的识别率。可设置**忽略区域**排除水印，进一步提高精准性。
 
-### [immersive-translate](https://github.com/immersive-translate/immersive-translate)
+![Umi-OCR](https://images-1252557999.file.myqcloud.com/uPic/R4LmuM.jpg) 
 
-沉浸式双语网页翻译扩展：
+### [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 
-- 智能识别网页主内容区进行翻译，区别于同类插件翻译网页所有区域的行为，降低对原网页的“侵入性”，增强译文的阅读体验，所以该扩展被命名为“沉浸式翻译”。
-- 双语显示，中文/英文对照（按照段落自然分割，或可设置为“将段落以句子分割”，实现每句话对照翻译）
-- 定制优化了常见的主流网站，比如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。
-- 支持 10 余种常见的翻译服务，包括 Deepl，谷歌，彩云小译，腾讯翻译君，百度翻译，火山翻译等。
-- 支持 PDF 文件双语翻译。
-- 支持 EPUB 电子书双语阅读，需配合 epub 在线阅读网站使用：https://epub-reader.online/  或  https://readwise.io/read
-- 提供多种译文样式选择，包括弱化、模糊、下划线、分隔线等样式，随心所欲的个性化你的翻译体验。
+一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤:
 
-![immersive-translate](https://images-1252557999.file.myqcloud.com/uPic/immersive-translate.jpg) 
+![TrafficMonitor](https://images-1252557999.file.myqcloud.com/uPic/TrafficMonitor.jpg) 
 
-### [hummingbird](https://github.com/leibnizli/hummingbird)
+### [spotube](https://github.com/KRTirtho/spotube)
 
-`Hummingbird` 是一个资源(`jpg/png/webp/svg/gif/css/js/html`)压缩客户端，支持`Windows`、`Mac`：
+`Spotube` 可用于所有主要平台，包括 `Linux、Android、Windows & MacOS`，它利用 `Spotify` 和 `YouTube` 的公共 `API` 作为音频源，不需要 `Spotify Premium`，没有广告，可下载歌曲，实时同步歌词，支持匿名或访客登录：
 
-- `jpg/png/webp/svg/gif/html` 压缩后会替换掉当前文件，`css/js` 压缩后会生成一个带 `.min` 的新文件
-- 可以在在当前目录新建source文件夹并备份处理前的文件，可以在设置中开启
-
-![hummingbird](https://images-1252557999.file.myqcloud.com/uPic/hummingbird.jpg) 
+![spotube](https://images-1252557999.file.myqcloud.com/uPic/spotube.jpg) 
 
 ## 👀 资料 
 
-### [go-best-practice](https://github.com/llitfkitfk/go-best-practice)
+### [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
 
-Go语言实战: 编写可维护Go语言代码建议。 
+记录中国大模型发展情况，同时持续深度分析开源开放的大模型以及数据集的情况，目前记录了国内188个大模型：
 
-### [influential-cs-books](https://github.com/cs-books/influential-cs-books)
+![LLMs-In-China](https://images-1252557999.file.myqcloud.com/uPic/LLMs-In-China.png) 
 
-该项目整理了计算机领域最具有影响力的编程&计算机科学书籍，书单的来源是`stackoverflow`上一个名为[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 的回答。 
+### [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-### [逻辑学简短入门](https://wxflogic.gitbook.io/logic)
+计算机科学课程和视频讲座列表：
 
-该书在众多逻辑学入门书中独树一帜，并不试图完整介绍逻辑学的理论，而是通过一些哲学难题或逻辑谜题引入解决这些问题的逻辑理论和方法，在介绍逻辑知识的同时展示逻辑可以如何来用。
+![cs-video-courses](https://images-1252557999.file.myqcloud.com/uPic/cs-video-courses.jpg) 
 
-![logic](https://images-1252557999.file.myqcloud.com/uPic/logic.jpg) 
+### developer-roadmap
+
+开发人员学习成长路线图：
+
+![developer-roadmap](https://images-1252557999.file.myqcloud.com/uPic/developer-roadmap.jpg) 
 
 ## 🕸 网站 
 
-### [apivault.dev](https://apivault.dev/)
+### [Git提交使用指南](http://wejectchan.gitee.io/git-emoji-user-guide/#/)
 
-免费开源的公共 `API` 网站：
+一个搜索 git 常用 emoji 的网站:
 
-![apivault](https://images-1252557999.file.myqcloud.com/uPic/apivault.jpg) 
+![git-emoji-user-guide](https://images-1252557999.file.myqcloud.com/uPic/sILZG1.png) 
 
-### [fancymacbook](https://fancymacbook.app/)
+### [pingli.app](https://www.pingli.app/)
 
-提供技术向软件搜索然后输出 `brew` 命令安装：
+说出你们的分歧，让7位 `AI` 裁判评评理，挺有意思：
 
-![fancymacbook](https://images-1252557999.file.myqcloud.com/uPic/fancymacbook.jpg) 
+![pingli.app](https://images-1252557999.file.myqcloud.com/uPic/1gX0NC.png) 
 
-### [FindPng](https://www.findpng.com/)
+### [wanqu.co](https://www.wanqu.co/)
 
-一个免费的由 `AI` 驱动的透明 `PNG` 图像生成器，输入关键词就可以生成透明的图像：
+湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
 
-![findpng](https://images-1252557999.file.myqcloud.com/uPic/findpng.jpg) 
+![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
 
 ## ✍️ 说明
 
