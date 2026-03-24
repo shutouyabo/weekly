@@ -5,83 +5,88 @@
 
 ## 🎯 项目 
 
-### [pandas-ai](https://github.com/sinaptik-ai/pandas-ai)
+### [sonic](https://github.com/go-sonic/sonic)
 
-通过使用大语言模型（LLMs）和基于检索的生成模型（RAG），让开发者与数据库或数据湖（比如 SQL、CSV、parquet 格式）的互动变得像聊天一样简单，从而大大简化了数据分析的过程：
+`Sonic` 是 `Go` 开发的博客平台，简单而强大：
 
-![pandas-ai](https://images-1252557999.file.myqcloud.com/uPic/CJtrpq.png) 
+![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
 
-### [Scrapegraph](https://github.com/VinciGit00/Scrapegraph-ai)
+### [ddddocr](https://github.com/sml2h3/ddddocr)
 
-基于 `LLM` 大模型的 `Python` 爬虫框架：
+一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
 
-![scrapegraph](https://images-1252557999.file.myqcloud.com/uPic/scrapegraph.jpg) 
+![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
 
-### [album-ai](https://github.com/gcui-art/album-ai)
+### [OxiCloud](https://github.com/DioCrafts/OxiCloud)
 
-挺有想法的项目，基于 `gpt-4o-mini` 作为视觉模型，自动识别出相册中图像文件的元信息，然后借助 `RAG` 技术，实现了与相册对话的能力：
+`OxiCloud` 是一个轻量级的云存储服务器，它使用 `Rust` 语言编写，旨在提供一个比传统 `PHP` 云服务（如 `NextCloud`）更快速、更轻量的文件存储方案。`OxiCloud` 具有响应式的用户界面，适用于桌面和移动设备，以及使用 `Link Time Optimization（LTO）`提高的二进制文件性能。
 
-![album-ai](https://images-1252557999.file.myqcloud.com/uPic/album-ai.jpg) 
+![OxiCloud](https://images-1252557999.file.myqcloud.com/uPic/dfL4Re.png) 
 
 ## 🤖 软件 
 
-### [SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote)
+### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 
-> 刚毕业的大学生 Alpha Liu，是一位热爱硬件的极客。他开发了一款名为 SpeedyNote 的开源笔记软件，专为无纸化学习而生，致力于让低端设备也能拥有流畅、极致的书写体验。并将这个项目视为一份开源礼物，送给所有因硬件门槛而被挡在无纸化学习门外的同学，也为那些被遗忘的旧平板、老电脑注入了新的活力。
+一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
 
-一款简单的笔记应用，性能出色，支持 PDF 导入，
+### [ScrollSnap](https://github.com/Brkgng/ScrollSnap "ScrollSnap")
 
-![SpeedyNote](https://images-1252557999.file.myqcloud.com/uPic/aTbqHl.png) 
+`ScrollSnap` 是开源的 Mac 滚动截图应用，支持自定义选择区域和菜单界面，用户可以定义截图区域，并将滚动截图后保存到桌面、剪贴板或预览。
 
-### [FeHelper](https://github.com/zxlie/FeHelper)
+![ScrollSnap](https://images-1252557999.file.myqcloud.com/uPic/e6zQwj.png) 
 
-`FeHelper`--Web 前端助手，提供了非常多的常用开发工具，支持 `Chrome&Firefox&MS-Edge`，是我浏览器必备的一款插件：
+### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
 
-![FeHelper](https://images-1252557999.file.myqcloud.com/uPic/FeHelper.png) 
+科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
 
-### [Speechless](https://github.com/meterscao/Speechless)
+![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
 
-`Speechless` 是一个帮助新浪微博用户，把微博内容导出成 `PDF` 进行本地备份的 `Chrome Extension`：
-
-![Speechless](https://images-1252557999.file.myqcloud.com/uPic/Speechless.jpeg) 
+还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
 
 ## 👀 资料 
 
-### [PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial)
+### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
-用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享：
+全面的Webpack教程《深入浅出Webpack》电子书：
 
-![PySide6-Code-Tutorial](https://images-1252557999.file.myqcloud.com/uPic/UqIUuM.png) 
+![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
 
-### [穷佐罗的Linux书](https://zorrozou.github.io/)
+### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
 
-穷佐罗的Linux书，挺不错的一份`Linux`教程。
+此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
 
-![zorrozou](https://images-1252557999.file.myqcloud.com/uPic/zorrozou.jpg) 
+### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
 
-### [Sam Altman的创业手册](https://jxp73q7qjsg.feishu.cn/docx/WCNZdKDa4o2eUrxK5ElcfBXEnah)
-
-`Sam Altman` 的创业手册文本，给YC系创始人们的建议里面最通用的一部分提炼出来变成一个创业手册。 
+本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
 
 ## 🕸 网站 
 
-### [screen.guru](https://screen.guru/)
+### [aiwallpaper](https://aiwallpaper.shop/)
 
-[Screen Guru](https://github.com/premieroctet/screen-guru)(开源) 可以对任何网站进行截屏生成干净漂亮的截图：
+`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
 
-![screen-guru](https://images-1252557999.file.myqcloud.com/uPic/screen-guru.png) 
+开源代码包括：
 
-### [wanqu.co](https://www.wanqu.co/)
+- nextjs 全栈开发 API 和 Web 
+- dalle-3 绘图对接 
+- aws s3 图片上传 
+- postgres 数据读写 
+- 谷歌登录 
+- stripe
 
-湾区日报. 关注创业，互联网，技术。就像是你远方的老朋友每天推荐几篇优质英文文章，一起每天进步一点点:
+非常适合参考学习，用来做一些小而美的 `AI` 应用。 
 
-![wanqu](https://images-1252557999.file.myqcloud.com/uPic/wanqu.jpg) 
+### [warp.dev](https://www.warp.dev/)
 
-### [freelancethings](https://www.freelancethings.co/)
+一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
 
-为自由职业者精心挑选的资源，涉及到社区、工具、文章、书籍、视频等，这些都帮助你在自由职业之旅中获得更多帮助，订阅后每周发送到您的收件箱:
+![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
 
-![freelancethings](https://images-1252557999.file.myqcloud.com/uPic/freelancethings.jpg) 
+### [jsonvisio](https://jsonvisio.com/editor)
+
+将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
 
 ## ✍️ 说明
 
