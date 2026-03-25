@@ -5,88 +5,105 @@
 
 ## 🎯 项目 
 
-### [sonic](https://github.com/go-sonic/sonic)
+### [CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077)
 
-`Sonic` 是 `Go` 开发的博客平台，简单而强大：
+`CyberScraper-2077` 是一个由 OpenAI 和 Ollama 支持的强大的 AI 驱动网页爬虫工具，提供了多种特性和功能，如用户友好的 Streamlit 界面、多格式数据导出、隐身模式、异步操作、智能解析等，旨在高效、隐蔽地从网络中提取数据：
 
-![sonic](https://images-1252557999.file.myqcloud.com/uPic/sonic.png) 
+![CyberScraper](https://images-1252557999.file.myqcloud.com/uPic/Xnip2024-09-01_11-56-36.jpg) 
 
-### [ddddocr](https://github.com/sml2h3/ddddocr)
+### [duplicati](https://github.com/duplicati/duplicati)
 
-一款OCR通用验证码识别SDK，ddddocr奉行着开箱即用、最简依赖的理念，尽量减少用户的配置和使用成本，希望给每一位测试者带来舒适的体验。
+Duplicati 是一个免费的开源备份客户端，可将加密的、增量的、压缩的备份安全地存储在云存储服务和远程文件服务器上:
 
-![ddddocr](https://images-1252557999.file.myqcloud.com/uPic/IcmLFK.png) 
+![duplicati](https://images-1252557999.file.myqcloud.com/uPic/duplicati.jpg) 
 
-### [OxiCloud](https://github.com/DioCrafts/OxiCloud)
+### [Unblock Netease Music](https://github.com/UnblockNeteaseMusic)
 
-`OxiCloud` 是一个轻量级的云存储服务器，它使用 `Rust` 语言编写，旨在提供一个比传统 `PHP` 云服务（如 `NextCloud`）更快速、更轻量的文件存储方案。`OxiCloud` 具有响应式的用户界面，适用于桌面和移动设备，以及使用 `Link Time Optimization（LTO）`提高的二进制文件性能。
-
-![OxiCloud](https://images-1252557999.file.myqcloud.com/uPic/dfL4Re.png) 
+Unblock Netease Music 维护小组，这个开源组织的目的主要是解锁网易云音乐客户端变灰歌曲，功能挺强大，像之前周刊介绍的[YesPlayMusic](https://weekly.howie6879.com/2021/10-04~10-10.%E6%88%91%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC008%E6%9C%9F%EF%BC%89.html?h=yes#yesplaymusic)也依赖了这个项目。 
 
 ## 🤖 软件 
 
-### [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+### [SmsForwarder](https://github.com/pppscn/SmsForwarder)
 
-一个命令行工具，用于从 `iCloud` 下载照片，支持 `Linux、Windows & macOS` 系统。 
+短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。
 
-### [ScrollSnap](https://github.com/Brkgng/ScrollSnap "ScrollSnap")
+![SmsForwarder](https://images-1252557999.file.myqcloud.com/uPic/v6owv0.jpg)
+如果有小号手机，又需要接收短信，这软件倒是挺不错的，关键是开源免费，功能挺多的。 
 
-`ScrollSnap` 是开源的 Mac 滚动截图应用，支持自定义选择区域和菜单界面，用户可以定义截图区域，并将滚动截图后保存到桌面、剪贴板或预览。
+### [image-matting](https://github.com/pangxiaobin/image-matting)
 
-![ScrollSnap](https://images-1252557999.file.myqcloud.com/uPic/e6zQwj.png) 
+基于开源模型 `briaai/RMBG-1.4` 实现图像抠图：
 
-### [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)
+![image-matting](https://images-1252557999.file.myqcloud.com/uPic/image-matting.jpg)
 
-科研人员总少不了阅读大量文献，理解文献内容就成了科研生活常态，而我们平时复制PDF内容黏贴到网页翻译的时候可能会出现多余换行而导致翻译乱码，译文与中文阅读习惯不符的情况，翻译结果很差，需要手动删除换行，而CopyTranslator可以帮我们快速且完美地解决这个问题。
+还有个闭源免费版本，可以参考进行使用[鲜艺AI抠图](https://kt.94xy.com/)，免费的离线AI抠图工具。 
 
-![CopyTranslator](https://images-1252557999.file.myqcloud.com/uPic/CopyTranslator.gif)
+### [DevToys](https://github.com/veler/DevToys)
 
-还有一款基于`DeepL`的同类型翻译软件可以参考使用，也叫一样的名字：[copy-translator](https://github.com/zu1k/copy-translator)，不过是用`Rust`写的，速度和体积有很大优势。 
+Github上一名开发 `Etienne Baudoux Veler`发布了`DevToys`，该工具可以说是面向开发者的`PowerToys`。`DevToys`包括 14 种不同的工具，包括 Json 到 Yaml、Yaml 到 Json 转换、编码 / 解码、文本比较、图片转换等等。
+
+![](https://images-1252557999.file.myqcloud.com/uPic/DevToys.png)
+
+可惜这个工具是`C#`写的，只支持`Windows`平台，所幸`ObuchiYuki`复刻了`DevToys`的`macOS`版——[DevToysMac](https://github.com/ObuchiYuki/DevToysMac)：
+
+![](https://images-1252557999.file.myqcloud.com/uPic/151813062-75292bd5-c254-4eb4-b95a-01026a06d559.png)
+
+放心体验吧~ 
 
 ## 👀 资料 
 
-### [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
+### [learn-neovim-lua](https://github.com/nshen/learn-neovim-lua/tree/bak)
 
-全面的Webpack教程《深入浅出Webpack》电子书：
+`Neovim` 配置实战：从 0 到 1 打造自己的 IDE，很良心的 `Neovim` 配置教程，有开源免费版和掘金付费版：
 
-![dive-into-webpack](https://images-1252557999.file.myqcloud.com/uPic/dive-into-webpack.jpg) 
+![lnl](https://images-1252557999.file.myqcloud.com/uPic/lnl.jpg)
 
-### [nlp-beginner-finish](https://github.com/Alic-yuan/nlp-beginner-finish)
+`Lua` 作为 `Neovim` 中的一等语言的集成正在成为它的杀手级特性之一，有兴趣了解的可以看 [nvim-lua-guide-zh](https://github.com/glepnir/nvim-lua-guide-zh) 教程，下图是我配置后的开发界面：
 
-此项目是为了完成复旦大学邱锡鹏老师的NLP入门练习 [NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)。 
+![nvim_demo](https://images-1252557999.file.myqcloud.com/uPic/nvim_demo.jpg)
 
-### [30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)
+更全面的 `nvim` 生态资料请参考：[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)。 
 
-本教程模仿《30天自制操作系统》，面向零经验的新手，教你在30天内入门Linux服务器开发。本教程更偏向实践，将会把重点放在如何写代码上，而不会花太多的篇幅讲解背后的计算机基础原理，涉及到的地方会给出相应书籍的具体章节。 
+### [sql-mother](https://github.com/liyupi/sql-mother)
+
+免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+
+![sqlmother](https://images-1252557999.file.myqcloud.com/uPic/sqlmother.jpg)
+
+在线网站点[这里](http://sqlmother.yupi.icu/#/learn)。 
+
+### [docker-practice](https://vuepress.mirror.docker-practice.com/)
+
+一份面向 `Docker` 初学者的教程：
+
+![docker-practice](https://images-1252557999.file.myqcloud.com/uPic/docker-practice.jpg) 
 
 ## 🕸 网站 
 
-### [aiwallpaper](https://aiwallpaper.shop/)
+### [BRIA-RMBG-1.4](https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4)
 
-`AI` 生成高清壁纸，项目开源在：[all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper)。
+[BRIA.AI](https://huggingface.co/briaai/RMBG-1.4) 下用于移除图片背景的模型，可直接在浏览器使用：
 
-开源代码包括：
+![BRIA-RMBG](https://images-1252557999.file.myqcloud.com/uPic/BRIA-RMBG.jpg) 
 
-- nextjs 全栈开发 API 和 Web 
-- dalle-3 绘图对接 
-- aws s3 图片上传 
-- postgres 数据读写 
-- 谷歌登录 
-- stripe
+### [文学网](https://www.hwxnet.com/)
 
-非常适合参考学习，用来做一些小而美的 `AI` 应用。 
+文学相关工具在线网站：
 
-### [warp.dev](https://www.warp.dev/)
+- 在线新华字典
+- 汉语词典
+- 成语词典
+- 中文转拼音
+- 文言文字典
+- 繁体字转换
 
-一个 `Rust` 实现的新终端 `Warp`，融资了2300万美元，个人还免费，它凭什么获得这么大的投入，有兴趣的朋友可以体验一下：
+![hwxnet](https://images-1252557999.file.myqcloud.com/uPic/hwxnet.jpg) 
 
-![wrap](https://images-1252557999.file.myqcloud.com/uPic/wrap.jpg) 
+### [zeli.app](https://zeli.app/zh)
 
-### [jsonvisio](https://jsonvisio.com/editor)
+用中文读科技新闻，旨在帮你快速挑选感兴趣的文章来读：
 
-将你的Json数据进行可视化，该项目也开源在[github-jsonvisio](https://github.com/AykutSarac/jsonvisio.com)：
-
-![](https://images-1252557999.file.myqcloud.com/uPic/jsonvisio.jpg) 
+![zeli](https://images-1252557999.file.myqcloud.com/uPic/dvVEf9.png) 
 
 ## ✍️ 说明
 
