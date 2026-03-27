@@ -243,6 +243,7 @@ nav:
   - 🤖 ChatGPT 开源应用月度排名: ./soft/chatgpt.md
 - 👏 GPT Plus: https://gpt5plus.com/?ref=howie6879_weekly
 - 🔗 RSS订阅: ./rss/rss.xml
+- 🔗 链接: ./rss/rss.xml
 plugins:
 - search:
     separator: '[\s\u200b\-]'
