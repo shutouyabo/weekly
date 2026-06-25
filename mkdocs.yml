@@ -253,8 +253,8 @@ repo_name: howie6879/weekly
 repo_url: https://github.com/howie6879/weekly
 site_author: howie.hu
 site_description: 老胡的信息周刊，为您带来各种值得收藏的软件项目以及资料网站 >>> 奇文共欣赏，疑义相与析
-site_name: 老胡的周刊123
-site_url: https://weekly.howie6879.com/
+site_name: 鼠头鸭脖周刊
+site_url: https://wiki.zhihu.blog/
 theme:
   custom_dir: overrides
   favicon: ./statics/images/favicon.ico
