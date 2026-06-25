@@ -279,7 +279,7 @@ theme:
   name: material
   palette:
   - accent: indigo
-    primary: white
+    primary: blue
     scheme: default
     toggle:
       icon: material/toggle-switch-off-outline
